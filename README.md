@@ -15,7 +15,7 @@
 
 ### 如何下载最新译文？
 
-前往 https://github.com/DeltaGreenCHN/Control-Group/releases/latest ，下载zip文件。
+前往 https://github.com/DeltaGreenCHN/Control-Group/releases/latest ，下载对应模组的zip文件。
 
 ### 如何订阅更新？
 
